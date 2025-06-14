@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+
+server:
+  port: 8002
+
+demo:
+  greeting: 'Hello, welcome to the demo service!'
+
+
